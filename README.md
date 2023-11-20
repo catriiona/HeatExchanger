@@ -42,7 +42,3 @@ Where:
 - NumPy
 - Matplotlib
 - SciPy
-
-## License
-
-This code is provided under the [MIT License](LICENSE).
